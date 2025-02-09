@@ -9,7 +9,10 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+<<<<<<< HEAD
     
+=======
+>>>>>>> 4ddfc68 (packages json changes)
   },
   "dependencies": {
     "axios": "^1.7.8",
